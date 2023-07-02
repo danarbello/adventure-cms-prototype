@@ -1,0 +1,8 @@
+vendor/
+docroot/core
+docroot/module/contrib
+docroot/themes/contrib
+docroot/libraries
+docroot/profiles/contrib
+docroot/themes/custom/*/node_modules
+docroot/sites/*/files
